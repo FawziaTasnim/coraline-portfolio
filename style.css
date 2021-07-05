@@ -19,15 +19,16 @@
     border-radius: 10%;
 }
 body{
-    background-image: url(images/bg1.png);
+    background-image: url(images/1kek.png);
     background-repeat: no-repeat;
+
 }
 .hahaha{
     display: flex;
     padding: 5%;
     font-size: larger;
     font-weight: 500;
-    background-image:url(images/fgh\(4\).png);
+    background-image:url(images/1kek.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -79,4 +80,7 @@ body{
 }
 .two{
     color: rgb(138, 138, 0);
+}
+#three{
+    padding-left: 3%;
 }
