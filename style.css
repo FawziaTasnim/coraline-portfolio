@@ -14,9 +14,10 @@
 }
 .linked{
     text-decoration: none;
-    background-image: linear-gradient(rgb(247, 74, 83),rgb(131, 139, 228));
+    background-image: linear-gradient(rgb(247, 162, 59),rgb(162, 168, 226));
     padding: 1px 5px;
     border-radius: 10%;
+    color: crimson;
 }
 body{
     background-image: url(images/1kek.png);
@@ -42,6 +43,7 @@ body{
     color: blue;
     padding: 5px;
     border-radius: 10%;
+    color: crimson;
 }
 .yeehaw{
     font-family: 'Uchen', serif;
@@ -79,7 +81,7 @@ body{
     color: rgb(41, 41, 245);
 }
 .two{
-    color: rgb(138, 138, 0);
+    color: rgb(194, 82, 7);
 }
 #three{
     padding-left: 3%;
