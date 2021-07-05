@@ -15,7 +15,7 @@
 .linked{
     text-decoration: none;
     background-image: linear-gradient(rgb(247, 74, 83),rgb(131, 139, 228));
-    padding: 5px;
+    padding: 1px 5px;
     border-radius: 10%;
 }
 body{
