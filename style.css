@@ -45,6 +45,7 @@ body{
 .yeehaw{
     font-family: 'Uchen', serif;
     display: flex;
+    font-weight: 700;
     
     
 
@@ -72,4 +73,10 @@ body{
 }
 body{
     padding: 10px;
+}
+.one{
+    color: rgb(41, 41, 245);
+}
+.two{
+    color: rgb(138, 138, 0);
 }
